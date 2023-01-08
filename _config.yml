@@ -12,5 +12,3 @@ katex:
     rendering_options:
         error_color: "#cc0000"
         throw_error: false
-kramdown:
-    math_engine: null
