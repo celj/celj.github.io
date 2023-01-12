@@ -1,9 +1,5 @@
 defaults:
     - scope:
-          path: "_posts/coursework"
-      values:
-          type: "coursework"
-    - scope:
           path: "_posts/ml_intro"
       values:
           type: "ml_intro"
