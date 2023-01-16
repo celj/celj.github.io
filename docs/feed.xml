@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="https://celj.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://celj.github.io/" rel="alternate" type="text/html" /><updated>2023-01-12T11:20:04-06:00</updated><id>https://celj.github.io/feed.xml</id><entry><title type="html">Web Development Basics 10</title><link href="https://celj.github.io/2023/04/29/web_dev_basics/" rel="alternate" type="text/html" title="Web Development Basics 10" /><published>2023-04-29T00:00:00-06:00</published><updated>2023-04-29T00:00:00-06:00</updated><id>https://celj.github.io/2023/04/29/web_dev_basics</id><content type="html" xml:base="https://celj.github.io/2023/04/29/web_dev_basics/"><![CDATA[<p>Here are some words.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="https://celj.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://celj.github.io/" rel="alternate" type="text/html" /><updated>2023-01-16T13:04:11-06:00</updated><id>https://celj.github.io/feed.xml</id><entry><title type="html">Web Development Basics 10</title><link href="https://celj.github.io/2023/04/29/web_dev_basics/" rel="alternate" type="text/html" title="Web Development Basics 10" /><published>2023-04-29T00:00:00-06:00</published><updated>2023-04-29T00:00:00-06:00</updated><id>https://celj.github.io/2023/04/29/web_dev_basics</id><content type="html" xml:base="https://celj.github.io/2023/04/29/web_dev_basics/"><![CDATA[<p>Here are some words.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
 
 <p>And this is some math:</p>
 
@@ -20,7 +20,7 @@
       <p>With a footnote. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[Here are some words.1 With a footnote. &#8617;]]></summary></entry><entry><title type="html">Introduction to Machine Learning 10</title><link href="https://celj.github.io/2023/04/29/ml_intro/" rel="alternate" type="text/html" title="Introduction to Machine Learning 10" /><published>2023-04-29T00:00:00-06:00</published><updated>2023-04-29T00:00:00-06:00</updated><id>https://celj.github.io/2023/04/29/ml_intro</id><content type="html" xml:base="https://celj.github.io/2023/04/29/ml_intro/"><![CDATA[<p>Here are some words.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[Here are some words.1 With a footnote. &#8617;]]></summary></entry><entry><title type="html">Neural Networks</title><link href="https://celj.github.io/2023/04/29/ml_intro/" rel="alternate" type="text/html" title="Neural Networks" /><published>2023-04-29T00:00:00-06:00</published><updated>2023-04-29T00:00:00-06:00</updated><id>https://celj.github.io/2023/04/29/ml_intro</id><content type="html" xml:base="https://celj.github.io/2023/04/29/ml_intro/"><![CDATA[<p>Here are some words.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
 
 <p>And this is some math:</p>
 
@@ -64,7 +64,7 @@
       <p>With a footnote. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[Here are some words.1 With a footnote. &#8617;]]></summary></entry><entry><title type="html">Introduction to Machine Learning 9</title><link href="https://celj.github.io/2023/04/22/ml_intro/" rel="alternate" type="text/html" title="Introduction to Machine Learning 9" /><published>2023-04-22T00:00:00-06:00</published><updated>2023-04-22T00:00:00-06:00</updated><id>https://celj.github.io/2023/04/22/ml_intro</id><content type="html" xml:base="https://celj.github.io/2023/04/22/ml_intro/"><![CDATA[<p>Here are some words.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[Here are some words.1 With a footnote. &#8617;]]></summary></entry><entry><title type="html">Multiclass Algorithms</title><link href="https://celj.github.io/2023/04/22/ml_intro/" rel="alternate" type="text/html" title="Multiclass Algorithms" /><published>2023-04-22T00:00:00-06:00</published><updated>2023-04-22T00:00:00-06:00</updated><id>https://celj.github.io/2023/04/22/ml_intro</id><content type="html" xml:base="https://celj.github.io/2023/04/22/ml_intro/"><![CDATA[<p>Here are some words.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
 
 <p>And this is some math:</p>
 
@@ -108,7 +108,7 @@
       <p>With a footnote. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[Here are some words.1 With a footnote. &#8617;]]></summary></entry><entry><title type="html">Introduction to Machine Learning 8</title><link href="https://celj.github.io/2023/04/15/ml_intro/" rel="alternate" type="text/html" title="Introduction to Machine Learning 8" /><published>2023-04-15T00:00:00-06:00</published><updated>2023-04-15T00:00:00-06:00</updated><id>https://celj.github.io/2023/04/15/ml_intro</id><content type="html" xml:base="https://celj.github.io/2023/04/15/ml_intro/"><![CDATA[<p>Here are some words.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[Here are some words.1 With a footnote. &#8617;]]></summary></entry><entry><title type="html">Gradient Boosting</title><link href="https://celj.github.io/2023/04/15/ml_intro/" rel="alternate" type="text/html" title="Gradient Boosting" /><published>2023-04-15T00:00:00-06:00</published><updated>2023-04-15T00:00:00-06:00</updated><id>https://celj.github.io/2023/04/15/ml_intro</id><content type="html" xml:base="https://celj.github.io/2023/04/15/ml_intro/"><![CDATA[<p>Here are some words.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
 
 <p>And this is some math:</p>
 
@@ -130,7 +130,7 @@
       <p>With a footnote. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[Here are some words.1 With a footnote. &#8617;]]></summary></entry><entry><title type="html">Introduction to Machine Learning 7</title><link href="https://celj.github.io/2023/04/01/ml_intro/" rel="alternate" type="text/html" title="Introduction to Machine Learning 7" /><published>2023-04-01T00:00:00-06:00</published><updated>2023-04-01T00:00:00-06:00</updated><id>https://celj.github.io/2023/04/01/ml_intro</id><content type="html" xml:base="https://celj.github.io/2023/04/01/ml_intro/"><![CDATA[<p>Here are some words.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[Here are some words.1 With a footnote. &#8617;]]></summary></entry><entry><title type="html">Decision Trees and Random Forests</title><link href="https://celj.github.io/2023/04/01/ml_intro/" rel="alternate" type="text/html" title="Decision Trees and Random Forests" /><published>2023-04-01T00:00:00-06:00</published><updated>2023-04-01T00:00:00-06:00</updated><id>https://celj.github.io/2023/04/01/ml_intro</id><content type="html" xml:base="https://celj.github.io/2023/04/01/ml_intro/"><![CDATA[<p>Here are some words.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
 
 <p>And this is some math:</p>
 
@@ -196,7 +196,7 @@
       <p>With a footnote. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[Here are some words.1 With a footnote. &#8617;]]></summary></entry><entry><title type="html">Introduction to Machine Learning 6</title><link href="https://celj.github.io/2023/03/25/ml_intro/" rel="alternate" type="text/html" title="Introduction to Machine Learning 6" /><published>2023-03-25T00:00:00-06:00</published><updated>2023-03-25T00:00:00-06:00</updated><id>https://celj.github.io/2023/03/25/ml_intro</id><content type="html" xml:base="https://celj.github.io/2023/03/25/ml_intro/"><![CDATA[<p>Here are some words.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[Here are some words.1 With a footnote. &#8617;]]></summary></entry><entry><title type="html">Performance Evaluation</title><link href="https://celj.github.io/2023/03/25/ml_intro/" rel="alternate" type="text/html" title="Performance Evaluation" /><published>2023-03-25T00:00:00-06:00</published><updated>2023-03-25T00:00:00-06:00</updated><id>https://celj.github.io/2023/03/25/ml_intro</id><content type="html" xml:base="https://celj.github.io/2023/03/25/ml_intro/"><![CDATA[<p>Here are some words.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
 
 <p>And this is some math:</p>
 
