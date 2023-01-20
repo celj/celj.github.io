@@ -1,8 +1,8 @@
 ---
-title: Decision Trees and Random Forests
-subtitle: 7th week.
+title: Aprendizaje no supervisado
+subtitle: Semana 10
 layout: default
-date: 2023-04-01
+date: 2023-04-29
 keywords: machine learning, statistics
 published: true
 ---

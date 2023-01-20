@@ -1,8 +1,8 @@
 ---
-title: Performance Evaluation
-subtitle: 6th week.
+title: Selección de modelos lineales y regularización
+subtitle: Semana 4
 layout: default
-date: 2023-03-25
+date: 2023-03-04
 keywords: machine learning, statistics
 published: true
 ---

@@ -1,8 +1,8 @@
 ---
-title: Neural Networks
-subtitle: 10th week.
+title: Métodos de remuestreo
+subtitle: Semana 3
 layout: default
-date: 2023-04-29
+date: 2023-02-25
 keywords: machine learning, statistics
 published: true
 ---

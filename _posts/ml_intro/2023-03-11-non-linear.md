@@ -1,8 +1,8 @@
 ---
-title: Gradient Boosting
-subtitle: 8th week.
+title: Métodos no lineales
+subtitle: Semana 5
 layout: default
-date: 2023-04-15
+date: 2023-03-11
 keywords: machine learning, statistics
 published: true
 ---

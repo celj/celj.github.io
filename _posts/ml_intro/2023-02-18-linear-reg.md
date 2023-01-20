@@ -1,8 +1,8 @@
 ---
-title: Loss Functions
-subtitle: 3rd week.
+title: Regresión lineal
+subtitle: Semana 2
 layout: default
-date: 2023-02-25
+date: 2023-02-18
 keywords: machine learning, statistics
 published: true
 ---

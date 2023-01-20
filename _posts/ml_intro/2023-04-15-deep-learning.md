@@ -1,8 +1,8 @@
 ---
-title: Introduction and Gradient Descent
-subtitle: 1st week.
+title: Aprendizaje profundo
+subtitle: Semana 8
 layout: default
-date: 2023-02-11
+date: 2023-04-15
 keywords: machine learning, statistics
 published: true
 ---

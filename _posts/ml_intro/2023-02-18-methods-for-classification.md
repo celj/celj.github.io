@@ -1,8 +1,8 @@
 ---
-title: Support Vector Machines and Subgradient Descent
-subtitle: 4th week.
+title: Modelos de clasificación
+subtitle: Semana 2
 layout: default
-date: 2023-03-04
+date: 2023-02-18
 keywords: machine learning, statistics
 published: true
 ---

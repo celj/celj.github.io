@@ -40,7 +40,7 @@ permalink: /web_dev_basics.html
         include nav.html %}
         <div id="blog" class="wrap">
             <div id="posts" class="section">
-                {% for post in posts %}
+                {% for post in posts reversed %}
                 <div class="post-row">
                     <p class="post-title">
                         <a href="{{ post.url }}">
