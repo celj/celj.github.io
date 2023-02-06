@@ -3,10 +3,6 @@ defaults:
           path: "_posts/ml_intro"
       values:
           type: "ml_intro"
-    - scope:
-          path: "_posts/web_dev_basics"
-      values:
-          type: "web_dev_basics"
 environment: prod
 future: true
 highlighter: rouge
