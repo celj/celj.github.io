@@ -1,10 +1,10 @@
 ---
-title: Análisis de supervivencia
-subtitle: Semana 9
+title: Aprendizaje profundo
+subtitle: Semana 6
 layout: default
-date: 2023-04-22
+date: 2023-04-15
 keywords: machine learning, statistics
-published: true
+published: false
 ---
 
 Here are some words.[^1]

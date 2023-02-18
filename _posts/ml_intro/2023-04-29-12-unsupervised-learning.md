@@ -1,10 +1,10 @@
 ---
-title: Regresión lineal
-subtitle: Semana 2
+title: Aprendizaje no supervisado
+subtitle: Semana 8
 layout: default
-date: 2023-02-18
+date: 2023-04-29
 keywords: machine learning, statistics
-published: true
+published: false
 ---
 
 Here are some words.[^1]

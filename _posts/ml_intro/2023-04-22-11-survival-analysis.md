@@ -1,10 +1,10 @@
 ---
-title: Métodos no lineales
-subtitle: Semana 5
+title: Análisis de supervivencia
+subtitle: Semana 7
 layout: default
-date: 2023-03-11
+date: 2023-04-22
 keywords: machine learning, statistics
-published: true
+published: false
 ---
 
 Here are some words.[^1]

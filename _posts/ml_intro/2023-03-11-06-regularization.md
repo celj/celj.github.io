@@ -1,10 +1,9 @@
 ---
-title: Aprendizaje profundo
-subtitle: Semana 8
-layout: default
-date: 2023-04-15
+title: Selección de modelos lineales y regularización
+subtitle: Semana 3
+date: 2023-03-11
 keywords: machine learning, statistics
-published: true
+published: false
 ---
 
 Here are some words.[^1]
