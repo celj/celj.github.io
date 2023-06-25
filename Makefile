@@ -1,7 +1,10 @@
 help:
-	@echo "image - build docker image"
-	@echo "build - build site"
-	@echo "serve - serve site"
+	@echo "build - build the site"
+	@echo "clean - remove the site"
+	@echo "image - build the docker image"
+	@echo "serve - serve the site"
+	@echo "shell - run a shell in the container"
+	@echo "update - clean, build, and serve the site"
 
 DIR := /srv/jekyll
 HOST := 0.0.0.0
