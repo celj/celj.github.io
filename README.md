@@ -1,13 +1,13 @@
 # README
 
-This README file describes the commands that can be used to build, clean, serve, and update a website using Docker.
+Commands use `make`.
 
-Commands
-
-`build` - Builds the website in the docs directory.
-`clean` - Removes the docs directory.
-`help` - Displays a list of all the available commands.
-`image` - Builds the Docker image for the website.
-`serve` - Serves the website on port `0.0.0.0:8080`.
-`shell` - Opens a bash shell in the Docker container.
-`update` - Cleans the website, builds the image, and then builds the website.
+| Command  | Description                                             |
+| -------- | ------------------------------------------------------- |
+| `build`  | Builds the site in the `docs` directory.                |
+| `clean`  | Removes the `docs` directory.                           |
+| `help`   | Displays a list of all the available commands.          |
+| `image`  | Builds the Docker image.                                |
+| `serve`  | Serves the site on `0.0.0.0:8080`.                      |
+| `shell`  | Enters the container's bash shell.                      |
+| `update` | Cleans the site, builds the image, and builds the site. |
