@@ -1,11 +1,21 @@
-DIR := /usr/app
+help:
+	@echo "image - build docker image"
+	@echo "build - build site"
+	@echo "serve - serve site"
+
+DIR := /srv/jekyll
 IMAGE := celj.github.io
+PORT := 4000
+
+DOCKER_RUN := docker run --rm -it -v `pwd`:$(DIR) --publish [::1]:$(PORT):$(PORT) $(IMAGE)
 
 image:
-	docker build -t $(IMAGE) .
+	docker build --no-cache -t $(IMAGE) .
 
 build:
-	docker run --rm -it -v `pwd`:$(APP_DIR) --publish [::1]:8080:8080 $(IMAGE) bundle exec jekyll build -d ./docs --future
+	$(DOCKER_RUN) bundle exec jekyll build -d ./docs --future
 
 serve:
-	docker run --rm -it -v `pwd`:$(APP_DIR) --publish [::1]:8080:8080 $(IMAGE) bundle exec jekyll serve --future
+	$(DOCKER_RUN) bundle exec jekyll serve --future
+
+retry: image serve
