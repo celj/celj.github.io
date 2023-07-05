@@ -1,6 +1,6 @@
 ---
 title: Aprendizaje no supervisado
-subtitle: Semana 8
+subtitle: Week 8
 layout: default
 date: 2023-04-29
 keywords: machine learning, statistics
