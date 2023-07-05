@@ -1,6 +1,6 @@
 ---
 title: Aprendizaje profundo
-subtitle: Semana 6
+subtitle: Week 6
 layout: default
 date: 2023-04-15
 keywords: machine learning, statistics

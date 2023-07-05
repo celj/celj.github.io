@@ -1,6 +1,6 @@
 ---
 title: Análisis de supervivencia
-subtitle: Semana 7
+subtitle: Week 7
 layout: default
 date: 2023-04-22
 keywords: machine learning, statistics

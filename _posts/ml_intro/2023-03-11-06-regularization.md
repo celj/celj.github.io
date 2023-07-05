@@ -1,6 +1,6 @@
 ---
 title: Selección de modelos lineales y regularización
-subtitle: Semana 3
+subtitle: Week 3
 date: 2023-03-11
 keywords: machine learning, statistics
 published: false
