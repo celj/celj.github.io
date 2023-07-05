@@ -6,7 +6,7 @@ help:
 	@echo "shell - run a shell in the container"
 	@echo "update - clean, build, and serve the site"
 
-DIR := /srv/jekyll
+DIR := /app
 HOST := 0.0.0.0
 IMAGE := celj.github.io
 PORT := 8080
@@ -21,11 +21,8 @@ build:
 	-d ./docs \
 	--future
 
-clean:
-	rm -rf ./docs
-
 image:
-	docker build --no-cache -t $(IMAGE) .
+	docker build -t $(IMAGE) .
 
 serve:
 	$(RUN) bundle exec jekyll serve \
@@ -35,5 +32,3 @@ serve:
 
 shell:
 	$(RUN) /bin/bash
-
-update: clean image build
