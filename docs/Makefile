@@ -1,10 +1,9 @@
 help:
 	@echo "build - build the site"
-	@echo "clean - remove the site"
+	@echo "clean - clean up docker images"
 	@echo "image - build the docker image"
 	@echo "serve - serve the site"
 	@echo "shell - run a shell in the container"
-	@echo "update - clean, build, and serve the site"
 
 DIR := /app
 HOST := 0.0.0.0
@@ -20,6 +19,9 @@ build:
 	$(RUN) bundle exec jekyll build \
 	-d ./docs \
 	--future
+
+clean:
+	docker image prune -f
 
 image:
 	docker build -t $(IMAGE) .
