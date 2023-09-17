@@ -3,17 +3,17 @@ permalink: /ml_intro.html
 ---
 
 <html>
-    <head>
-        <title>Carlos Lezama</title>
-        <meta charset="UTF-8" />
-        <meta content="width=device-width, initial-scale=1" name="viewport" />
+  <head>
+    <title>Carlos Lezama</title>
+    <meta charset="UTF-8" />
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
 
-        <meta name="description" content="Passionate data storyteller." />
-        <!-- A decent browser will parse this fine:
+    <meta name="description" content="Passionate data storyteller." />
+    <!-- A decent browser will parse this fine:
          https://webmasters.stackexchange.com/questions/92744. -->
-        <meta
-            name="keywords"
-            content="
+    <meta
+      name="keywords"
+      content="
         bayesian inference,
         computational statistics,
         computer science,
@@ -26,42 +26,41 @@ permalink: /ml_intro.html
         statistical software,
         statistics,
     "
-        />
-        <meta name="author" content="Carlos Lezama" />
+    />
+    <meta name="author" content="Carlos Lezama" />
 
-        <link href="css/blog.css" rel="stylesheet" />
-        <link href="img/icon.png" rel="icon" />
-        <link href="img/icon.png" rel="shortcut icon" />
+    <link href="css/blog.css" rel="stylesheet" />
+    <link href="img/icon.png" rel="icon" />
+    <link href="img/icon.png" rel="shortcut icon" />
 
-        {% include mathjax.html %}
-    </head>
-    <body>
-        {% assign posts = site.posts | where:"type", "ml_intro" %} {% include
-        nav.html %}
-        <div id="blog" class="wrap">
-            <div id="posts" class="section">
-                This course was designed for
-                <a href="https://www.datalabitam.org/" target="_blank"
-                    >datalab</a
-                >. <br />
-                The syllabus is a small adaptation to python of
-                <a href="https://www.statlearning.com" target="_blank"
-                    >an introduction to statistical learning</a
-                >. {% for post in posts reversed %}
-                <div class="post-row">
-                    <p class="post-title">
-                        <a href="{{ post.url }}">
-                            {% katexmm %} {{ post.title }} {% endkatexmm %}
-                        </a>
-                    </p>
-                    <p class="post-date">{{ post.date | date: '%d.%m.%Y' }}</p>
-                </div>
-                <p class="post-subtitle">
-                    {% katexmm %} {{ post.subtitle }} {% endkatexmm %}
-                </p>
-                <span class="hidden">{{ forloop.index }}</span>
-                {% endfor %}
-            </div>
+    {% include mathjax.html %}
+  </head>
+  <body>
+    {% assign posts = site.posts | where:"type", "ml_intro" %} {% include
+    nav.html %}
+    <div id="blog" class="wrap">
+      <div id="posts" class="section">
+        This course was designed for
+        <a href="https://www.datalabitam.org/" target="_blank">datalab</a>.
+        <br />
+        The syllabus is a small adaptation to python of
+        <a href="https://www.statlearning.com" target="_blank"
+          >an introduction to statistical learning</a
+        >. {% for post in posts reversed %}
+        <div class="post-row">
+          <p class="post-title">
+            <a href="{{ post.url }}">
+              {% katexmm %} {{ post.title }} {% endkatexmm %}
+            </a>
+          </p>
+          <p class="post-date">{{ post.date | date: '%d.%m.%Y' }}</p>
         </div>
-    </body>
+        <p class="post-subtitle">
+          {% katexmm %} {{ post.subtitle }} {% endkatexmm %}
+        </p>
+        <span class="hidden">{{ forloop.index }}</span>
+        {% endfor %}
+      </div>
+    </div>
+  </body>
 </html>

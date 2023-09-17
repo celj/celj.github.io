@@ -1,20 +1,20 @@
 defaults:
-    - scope:
-          path: "_posts/ml_intro"
-      values:
-          type: "ml_intro"
+  - scope:
+      path: "_posts/ml_intro"
+    values:
+      type: "ml_intro"
 environment: prod
 future: true
 highlighter: rouge
 katex:
-    js_path: "assets"
-    rendering_options:
-        error_color: "#cc0000"
-        throw_error: false
+  js_path: "assets"
+  rendering_options:
+    error_color: "#cc0000"
+    throw_error: false
 permalink: /:year/:month/:day/:title/
 plugins:
-    - jekyll-feed
-    - jekyll-katex
-    - jekyll-scholar
-    - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-katex
+  - jekyll-scholar
+  - jekyll-sitemap
 url: "https://celj.github.io"
