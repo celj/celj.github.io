@@ -18,3 +18,5 @@ plugins:
   - jekyll-scholar
   - jekyll-sitemap
 url: "https://celj.github.io"
+params:
+  favicon: “img/icon.png”
